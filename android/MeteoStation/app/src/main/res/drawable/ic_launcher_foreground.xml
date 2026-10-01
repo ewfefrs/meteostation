@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Термометр и капля -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M44,30a6,6 0 0,1 12,0v26.5a11,11 0 1,1 -12,0z" />
+    <path android:fillColor="#E07A2E"
+        android:pathData="M47.5,44h5v15.2a7,7 0 1,1 -5,0z" />
+    <path android:fillColor="#7FD6CB"
+        android:pathData="M70,40c0,0 -9,10.5 -9,16a9,9 0 0,0 18,0c0,-5.5 -9,-16 -9,-16z" />
+</vector>
